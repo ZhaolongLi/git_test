@@ -1,2 +1,7 @@
 Read me
 add 2
+<<<<<<< HEAD
+add 3
+=======
+add 3 origin
+>>>>>>> bc55d5c3ea4ba3b2aca374842b9d52a8f68ec008
